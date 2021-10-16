@@ -10,5 +10,7 @@ public class Home {
     public static void main(String[] args) {
         Home home=new Home();
         home.m1(23, 22);
+
+        System.out.println( " i like git ");
     }
     }
